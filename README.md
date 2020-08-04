@@ -1,6 +1,7 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-Hi there 👋
+### Hi there 👋
+
 Working for posterity. Passionate about learning new things that help create solutions that add up to human development.
 
 🔭 I’m currently working at Rocketseat
