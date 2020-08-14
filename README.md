@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hello, there 👋
 
 Working for posterity. Passionate about learning new things that help create solutions that add up to human development.
 
